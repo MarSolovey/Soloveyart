@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Inconsolata";
+    src: url("../fonts/Inconsolata/static/Inconsolata-ExtraBold.ttf");
+
+}
+
+
+
+body{
+    background-color: lavenderblush;
+
+    font-family: "Inconsolata";
+}
